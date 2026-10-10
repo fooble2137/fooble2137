@@ -36,4 +36,4 @@
 ## Other
 
 - I use Visual Studio Code, as well as the JetBrains IDEs.
-- 🌐 [Website](https://www.fooble.dev)
+- 🌐 [Website](https://fooble.dev)
